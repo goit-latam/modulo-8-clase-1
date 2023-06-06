@@ -1,0 +1,35 @@
+# Lección 15:
+
+- Terminal
+  - Abrir
+    - `controlar + ~`
+    - `ver > terminal'
+    - `comando + shift + p o control + shift + p`
+  - Comandos principales y útiles:
+    - la ruta al directorio actual (pwd)
+    - lista de recursos en el directorio (ls)
+    - cambiar a otro directorio (cd)
+    - borrando el terminal `clear` o `control + l`
+    - crear un nuevo archivo (touch)
+    - creando un nuevo directorio (mkdir)
+    - renombrar/mover (mv)
+    - eliminación (rm)
+    - encontrar información detallada sobre el comando (comando man)
+- Node.js y npm
+  - instalación
+  - inicialización y paquete.json
+  - [npmjs.com](https://www.npmjs.com/)
+  - cómo trabajar con paquetes
+    - instalación
+    - eliminación
+  - guiones npm
+    - pre y post
+  - Transpilación del código
+  - [Babel](https://babeljs.io/)
+  - Scripts CLI y npm
+  - Preajustes
+  - [Lista de navegadores] (https://github.com/browserslist/browserslist)
+- [Recolector de paquetes](https://parceljs.org/)
+- [módulos ECMAScript](https://exploringjs.com/es6/ch_modules.html)
+  - Exportación e importación por defecto
+  - Exportación e importación con nombre
